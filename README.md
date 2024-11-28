@@ -1,6 +1,3 @@
-Here’s a revised and comprehensive `README.md` for your Regional Sales Dashboard project:
-
----
 
 # Regional Sales Dashboard 📊
 
