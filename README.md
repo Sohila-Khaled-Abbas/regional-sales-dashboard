@@ -43,7 +43,7 @@ The **Regional Sales Dashboard** is a dynamic and interactive data visualization
 |-------------------------|-----------------------------------------------------------------------------|
 | `Regional Sales Dashboard.pbix` | Power BI file containing the complete dashboard.                            |
 | `data/`             | Folder containing the raw and cleaned CSV datasets used in the project.    |
-| `screenshots/`          | Folder with screenshots of the dashboard visualizations.                   |
+| `screenshots/`          | Folder containing the screenshots for the Sales Overview visualizations for each year.   |
 | `visualizations.md`     | Detailed descriptions of key dashboard visualizations with screenshots.    |
 | `data-preprocessing-steps.md` | Document explaining the data cleaning and transformation process.           |
 
@@ -74,17 +74,17 @@ The **Regional Sales Dashboard** is a dynamic and interactive data visualization
 
 Below are examples of visualizations included in the dashboard. For more details, check the `visualizations.md` file.
 
-#### **1. Sales Overview**
-![Sales Overview](screenshots/sales-overview.png)
+#### **1. Sales Overview 2020**
+![Sales Overview 2020](screenshots/sales_overview_2020.png)
 
-#### **2. Profit Trends**
-![Profit Trends](screenshots/profit-trends.png)
+#### **2. Sales Overview 2021**
+![Sales Overview 2021](screenshots/sales_overview_2021.png)
 
-#### **3. Number of Orders**
-![Order Volume](screenshots/order-volume.png)
+#### **3. Sales Overview 2022**
+![Sales Overview 2022](screenshots/sales_overview_2022.png)
 
-#### **4. Regional Breakdown**
-![Regional Breakdown](screenshots/regional-performance.png)
+#### **4. Sales Overview 2023**
+![Sales Overview 2023](screenshots/sales_overview_2023.png)
 
 ---
 
