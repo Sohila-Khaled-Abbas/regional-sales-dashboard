@@ -42,7 +42,7 @@ The **Regional Sales Dashboard** is a dynamic and interactive data visualization
 | File/Folder Name        | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | `Regional Sales Dashboard.pbix` | Power BI file containing the complete dashboard.                            |
-| `datasets/`             | Folder containing the raw and cleaned CSV datasets used in the project.    |
+| `data/`             | Folder containing the raw and cleaned CSV datasets used in the project.    |
 | `screenshots/`          | Folder with screenshots of the dashboard visualizations.                   |
 | `visualizations.md`     | Detailed descriptions of key dashboard visualizations with screenshots.    |
 | `data-preprocessing-steps.md` | Document explaining the data cleaning and transformation process.           |
